@@ -18,3 +18,7 @@
 
 
 
+了解localStorage 的使用。
+
+
+
