@@ -2,9 +2,13 @@
 
 rsReportApi 方法
 
-apiResource.res 中
 
-1. apiResource中
-2. 
+
+2. apiResource中
+
+apiResource.res 
+
+apiUrl
+
 
 
