@@ -1,5 +1,10 @@
 1. apiMain 中
-2. apiResource中
-3. 
+
+rsReportApi 方法
+
+apiResource.res 中
+
+1. apiResource中
+2. 
 
 
