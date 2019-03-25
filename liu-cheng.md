@@ -2,21 +2,37 @@
 
 1. 入口url，rptList 上
 
-   2. controller 中返回页面
+   1. controller 中返回页面
 
-   3. 加载js , Apimain中的url 注册
+   2. 加载js , Apimain中的url 注册
 
-  4. controller 中调用数据，返回给js
+   3. controller 中调用数据，返回给js
 
-  5. js渲染页面
+   4. js渲染页面
 
-  6. 添加 csv导出功能
+   5. 添加 csv导出功能
 
-  7. 子页面的 链接注册
+   6. 子页面的 链接注册
 
-  8. controller 返回子页面
+   7. controller 返回子页面
 
-  9. 调用js，js请求数据并返回， 渲染页面（主要涉及参数的传入）
+   8. 调用js，js请求数据并返回， 渲染页面（主要涉及参数的传入）
 
-  10. 添加子页的csv导出功能。
+   9. 添加子页的csv导出功能。
+
+
+
+model里管数据， 
+
+controller里管数据获取，页面返回等
+
+js 控制页面展示 和 数据请求。
+
+view 是页面。
+
+
+
+
+
+
 
