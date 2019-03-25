@@ -10,4 +10,5 @@
   * [sql语句](shu-ju-ku/sqlyu-ju.md)
 * [essensial task](essensial-task.md)
 * [2019/3/25](2019325.md)
+* [redis去缓存](redisqu-huan-cun.md)
 
