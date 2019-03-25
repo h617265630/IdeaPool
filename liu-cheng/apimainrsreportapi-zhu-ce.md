@@ -1,14 +1,16 @@
-1. apiMain 中
+1 apiMain 中
 
 rsReportApi 方法
 
 
 
-2. apiResource中
+2 apiResource中
 
-apiResource.res 
+apiResource.res
 
-apiUrl
+apiUrl    
 
 
+
+3 route
 
