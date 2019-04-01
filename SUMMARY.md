@@ -22,4 +22,6 @@
   * [ES6](ji-zhu-ji-lei/es6.md)
   * [typescript](ji-zhu-ji-lei/typescript.md)
   * [Spring](ji-zhu-ji-lei/spring.md)
+  * [egg](ji-zhu-ji-lei/egg.md)
+    * [配置多个数据库](ji-zhu-ji-lei/egg/pei-zhi-duo-ge-shu-ju-ku.md)
 
