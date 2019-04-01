@@ -20,4 +20,6 @@
 * [技术积累](ji-zhu-ji-lei.md)
   * [koa](ji-zhu-ji-lei/koa.md)
   * [ES6](ji-zhu-ji-lei/es6.md)
+  * [typescript](ji-zhu-ji-lei/typescript.md)
+  * [Spring](ji-zhu-ji-lei/spring.md)
 
