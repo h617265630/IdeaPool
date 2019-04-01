@@ -17,4 +17,7 @@
 * [配置技巧类](pei-zhi-ji-qiao-lei.md)
   * [redis去缓存](pei-zhi-ji-qiao-lei/redisqu-huan-cun.md)
 * [wnoklylno](onlyikonw.md)
+* [技术积累](ji-zhu-ji-lei.md)
+  * [koa](ji-zhu-ji-lei/koa.md)
+  * [ES6](ji-zhu-ji-lei/es6.md)
 
