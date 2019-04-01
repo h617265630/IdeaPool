@@ -24,4 +24,6 @@
   * [Spring](ji-zhu-ji-lei/spring.md)
   * [egg](ji-zhu-ji-lei/egg.md)
     * [配置多个数据库](ji-zhu-ji-lei/egg/pei-zhi-duo-ge-shu-ju-ku.md)
+* bug记录
+  * [504错误](504cuo-wu.md)
 
