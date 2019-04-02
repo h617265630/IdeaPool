@@ -9,7 +9,7 @@
   * [3\_15工作](todoren-wu/315-gong-zuo.md)
   * [19\_3\_25](todoren-wu/193-15.md)
   * [19\_3\_26](todoren-wu/193-26.md)
-  * 19\_4\_2
+  * [19\_4\_2](todoren-wu/194-2.md)
   * [怎样高效](todoren-wu/zen-yang-gao-xiao.md)
   * [规律的每一天](todoren-wu/gui-lv-de-mei-yi-tian.md)
 * [数据库](shu-ju-ku.md)
