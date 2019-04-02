@@ -9,6 +9,9 @@
   * [3\_15工作](todoren-wu/315-gong-zuo.md)
   * [19\_3\_25](todoren-wu/193-15.md)
   * [19\_3\_26](todoren-wu/193-26.md)
+  * 19\_4\_2
+  * 怎样高效
+  * [规律的每一天](todoren-wu/gui-lv-de-mei-yi-tian.md)
 * [数据库](shu-ju-ku.md)
   * [sql语句](shu-ju-ku/sqlyu-ju.md)
 * [parts的建立流程](liu-cheng.md)
@@ -24,6 +27,6 @@
   * [Spring](ji-zhu-ji-lei/spring.md)
   * [egg](ji-zhu-ji-lei/egg.md)
     * [配置多个数据库](ji-zhu-ji-lei/egg/pei-zhi-duo-ge-shu-ju-ku.md)
-* bug记录
+* [bug记录](bugji-lu.md)
   * [504错误](504cuo-wu.md)
 
