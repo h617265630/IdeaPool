@@ -7,11 +7,7 @@
 
 安装了mysql 和egg-sequelize
 
-
-
-
-
-中间
+中间件
 
 插件
 
