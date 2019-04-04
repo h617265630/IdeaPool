@@ -57,15 +57,13 @@ worker 工人
 
 异常处理
 
-
-
 try
 
 catch
 
 
 
-
+validate 插件
 
 
 
