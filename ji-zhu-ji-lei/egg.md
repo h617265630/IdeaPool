@@ -47,3 +47,11 @@ ctx.session\(\)
 
 储存扩展，sessionStorage
 
+ 
+
+Cluster
+
+master  包工头
+
+worker 工人
+
