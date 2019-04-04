@@ -12,6 +12,7 @@
   * [19\_4\_2](todoren-wu/194-2.md)
   * [怎样高效](todoren-wu/zen-yang-gao-xiao.md)
   * [规律的每一天](todoren-wu/gui-lv-de-mei-yi-tian.md)
+  * [19\_4\_4](todoren-wu/194-4.md)
 * [数据库](shu-ju-ku.md)
   * [sql语句](shu-ju-ku/sqlyu-ju.md)
 * [parts的建立流程](liu-cheng.md)
