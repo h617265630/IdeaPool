@@ -41,3 +41,9 @@ Session 专门用作用户身份识别。
 
 多进程模型和进程间。
 
+ctx.cookies.get\(key,options\)
+
+ctx.session\(\)
+
+
+
