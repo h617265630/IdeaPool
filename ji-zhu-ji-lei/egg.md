@@ -39,5 +39,5 @@ cookie and Session.
 
 Session 专门用作用户身份识别。
 
-多进程模型和进程间
+多进程模型和进程间。
 
