@@ -47,11 +47,11 @@ ctx.session\(\)
 
 储存扩展，sessionStorage
 
- 
-
 Cluster
 
 master  包工头
 
 worker 工人
+
+根据服务器的CPU核数来定，这样就可以完美利用多核资源。
 
