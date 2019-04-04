@@ -45,5 +45,5 @@ ctx.cookies.get\(key,options\)
 
 ctx.session\(\)
 
-
+储存扩展，sessionStorage
 
