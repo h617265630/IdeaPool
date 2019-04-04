@@ -17,7 +17,7 @@
 
 \(它没有独立的Router和Controller,它没有plugin.js\)
 
-
+应用可以直接引入Koa的中间件。
 
 
 
