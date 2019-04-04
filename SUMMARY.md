@@ -18,6 +18,7 @@
 * [parts的建立流程](liu-cheng.md)
   * [新建筛选项](liu-cheng/xin-jian-shai-xuan-xiang.md)
   * [ApiMainrsReportApi 注册](liu-cheng/apimainrsreportapi-zhu-ce.md)
+  * [异步导出的新建流程](liu-cheng/yi-bu-dao-chu-de-xin-jian-liu-cheng.md)
 * [配置技巧类](pei-zhi-ji-qiao-lei.md)
   * [redis去缓存](pei-zhi-ji-qiao-lei/redisqu-huan-cun.md)
 * [wnoklylno](onlyikonw.md)
