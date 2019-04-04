@@ -31,15 +31,15 @@
 
 单元测试。
 
-
-
 egg-cluster
 
 egg-scripts
 
-
-
 cookie and Session.
+
+Session 专门用作用户神风识别。
+
+多进程模型和进程间
 
 
 
