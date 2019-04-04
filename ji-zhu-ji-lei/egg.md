@@ -63,9 +63,11 @@ catch
 
 validate 插件
 
-
-
-
-
 typeScript 的静态类型检查，智能提示，IDE友好性等特性，对于大规模企业级应用，是非常有价值的
+
+
+
+
+
+EGG 最精髓的Loader自动加载机制
 
