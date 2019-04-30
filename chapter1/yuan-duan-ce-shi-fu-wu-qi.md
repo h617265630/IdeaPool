@@ -28,16 +28,77 @@ rscrm.embryform.com
 
 admin admin
 
-
-
-
-
 [https://rscrm.embryform.com/](https://rscrm.embryform.com/)
 
-* 青松
-  ![](https://static.dingtalk.com/media/lALPDgQ9qhVeGY_M8Mzw_240_240.png)
+* 青松  
+
 
   17701500287/12345678
 
 
+
+
+
+12.0
+
+李立俊 2019/4/25 14:01:03
+
+  
+
+
+地址：120.27.209.37
+
+  
+
+
+端口：54029
+
+  
+
+
+库名：portal\_meilihua
+
+  
+
+
+账号：dbuser
+
+  
+
+
+密码：Qingger
+
+&
+
+1234
+
+  
+
+
+李立俊 2019/4/25 17:28:07
+
+  
+
+
+地址：120.27.209.37
+
+  
+
+
+端口：63029
+
+  
+
+
+库名：portal
+
+  
+
+
+账号：runsa\_out
+
+  
+
+
+密码：1@7G9YuOL6oW
 
