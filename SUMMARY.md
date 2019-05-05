@@ -36,4 +36,5 @@
 * [bug记录](bugji-lu.md)
   * [504错误](504cuo-wu.md)
 * [新任务](xin-ren-wu.md)
+* [我的账号信息](wo-de-zhang-hao-xin-xi.md)
 
