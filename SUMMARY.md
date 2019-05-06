@@ -3,6 +3,7 @@
 * [明日该做](README.md)
   * [todoTomorrow](todotomorrow.md)
   * [alf](alf.md)
+  * [微信小程序接口文档研读](wei-xin-xiao-cheng-xu-jie-kou-wen-dang-yan-du.md)
 * [公司信息](chapter1.md)
   * [远端测试服务器](chapter1/yuan-duan-ce-shi-fu-wu-qi.md)
   * [相关信息](chapter1/xiang-guan-xin-xi.md)
