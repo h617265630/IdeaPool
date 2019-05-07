@@ -137,8 +137,6 @@ c.reset\(\);
 
 c.interval=5.0;
 
-
-
 接口继承类
 
 当接口继承了一个类类型时，它会继承类的成员但不包括扩其实现，
@@ -163,27 +161,11 @@ class TextBox extends Control{
 class Image implements SelectableControl{
     select(){}
 }
+class Location{
+
+
+}
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
