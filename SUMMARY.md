@@ -38,4 +38,9 @@
   * [504错误](504cuo-wu.md)
 * [新任务](xin-ren-wu.md)
 * [我的账号信息](wo-de-zhang-hao-xin-xi.md)
+* [项目笔记](xiang-mu-bi-ji.md)
+  * [minimp](xiang-mu-bi-ji/minimp.md)
+    * [笔记](xiang-mu-bi-ji/minimp/bi-ji.md)
+      * typescript 基础语法
+      * [变量声明](xiang-mu-bi-ji/minimp/bi-ji/bian-liang-sheng-ming.md)
 
