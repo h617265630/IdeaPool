@@ -105,8 +105,6 @@ class Clock implements ClockInterace{
 
 可以继承多个接口，创建出多个接口的合成接口
 
-
-
 混合类型
 
 interface Counter{
@@ -130,6 +128,62 @@ counter.reset = function\(\){};
 return counter;
 
 }
+
+let c = getCounter\(\);
+
+c\(10\);
+
+c.reset\(\);
+
+c.interval=5.0;
+
+
+
+接口继承类
+
+当接口继承了一个类类型时，它会继承类的成员但不包括扩其实现，
+
+接口同样会继承到类的private和protected成员
+
+这个接口类型只能被这个类或其子类所实现。
+
+```
+class Control{
+    private state:any;
+}
+interace SelectableControl extends Control{
+    select():void;
+}
+class Button extends Control implements SelectableContro{
+    select(){}
+}
+class TextBox extends Control{
+    select(){}
+}
+class Image implements SelectableControl{
+    select(){}
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
