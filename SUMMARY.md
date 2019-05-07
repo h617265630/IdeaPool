@@ -43,4 +43,5 @@
     * [笔记](xiang-mu-bi-ji/minimp/bi-ji.md)
       * typescript 基础语法
       * [变量声明](xiang-mu-bi-ji/minimp/bi-ji/bian-liang-sheng-ming.md)
+      * [接口](xiang-mu-bi-ji/minimp/bi-ji/jie-kou.md)
 

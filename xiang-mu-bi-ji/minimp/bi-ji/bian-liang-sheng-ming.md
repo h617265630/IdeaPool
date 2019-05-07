@@ -34,3 +34,122 @@ const 引用的值是不可变的。
 
 
 
+**结构数组**
+
+数组结构赋值
+
+let input = \[1,2\];
+
+let \[first,second\] = input;
+
+console.log\(first\);
+
+console.log\(second\);
+
+first = input\[0\];
+
+second = input\[1\];
+
+\[first,second\]  = \[second,first\];
+
+function f\(\[first,second\]:\[number,numer\]\){
+
+console.log\(first\);
+
+console.log\(second\):
+
+}
+
+let \[first\] = \[1,2,3,4\];
+
+console.log\(first\);
+
+let \[,second,,fourth\] = \[1,2,3,4\];
+
+
+
+let o = {
+
+a:'foo',
+
+b:12,
+
+c:'bar'
+
+};
+
+
+
+\({a,b} = {a:'baz',b:101}\);
+
+
+
+let {a,...passthrough} = o;
+
+let total = passthrough.b +passthrought.c.length;
+
+
+
+默认值
+
+function keepWholeObject\(wholeObject:\[a:string,b?:number}\){
+
+let{a,b=1001} = wholeObject;
+
+}
+
+
+
+函数声明
+
+type C = {a:string,b?:number}
+
+function f\({a,b}:C\):void{
+
+
+
+}
+
+
+
+function f\({a="",b=0}={}\):void{}
+
+f\(\):
+
+
+
+展开
+
+展开允许你将一个数组展开为另一个数组，或将一个对象展开为另一个对象。
+
+let first = \[1,2\];
+
+let second = \[3,4\];
+
+let bothPlus =\[0,...first,...second,5\];
+
+
+
+let defaults = {food:'spicy',price:'$$',ambiance:'noisy'};
+
+let search = {...defaults,food:'rich'};
+
+
+
+大体上是说当你展开一个对象实例的时候，你会丢失其方法。
+
+```
+class C{
+    p=12;
+    m(){
+    }
+}
+let c = new C();
+let clone = {...c};
+clone.p;
+clone.m();
+
+```
+
+
+
