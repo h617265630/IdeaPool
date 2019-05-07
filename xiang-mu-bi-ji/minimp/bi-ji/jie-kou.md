@@ -10,8 +10,6 @@ let myObj ={size:10,label:'size 10 Object'};
 
 printLabel\(myObj\);
 
-
-
 可选属性
 
 ```
@@ -38,6 +36,10 @@ let mySquare = createSquare({color:'black'});
 
  你可以在属性名前用 readonly来指定只读属性:
 ```
+
+readonly vs const 
+
+最简单判断该用readonly还是const的方法是要看把它作为变量使用还是作为一个属性。作为变量使用的话用const，作为属性则使用readonly。
 
 
 
