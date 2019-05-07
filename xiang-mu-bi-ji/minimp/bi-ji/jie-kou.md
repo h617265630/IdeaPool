@@ -41,11 +41,7 @@ readonly vs const
 
 最简单判断该用readonly还是const的方法是要看把它作为变量使用还是作为一个属性。作为变量使用的话用const，作为属性则使用readonly。
 
-
-
 类型断言 as 。。。。
-
-
 
 let mySearch:SearchFunc;
 
@@ -75,8 +71,6 @@ let myStr :string = myArray\[0\];
 
 TypeScript 支持两种索引签名，字符串和数字，
 
-
-
 实现接口
 
 ```
@@ -101,14 +95,15 @@ class Clock implements ClockInterace{
     }
     constructor(h:number,m:number){}
 }
-
 ```
 
 类静态部分，和实例部分的区别
 
 继承接口
 
-
-
 接口继承接口
+
+可以继承多个接口，创建出多个接口的合成接口
+
+
 
