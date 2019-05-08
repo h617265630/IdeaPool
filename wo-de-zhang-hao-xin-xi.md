@@ -8,23 +8,23 @@ cagefree.jie@gmail.com
 
 burnme0506@aliyun.com
 
-
-
 本地mysql
 
+client:{
+
+```
+  host:'localhost',
+
+  port:'3306',
+
+  user:'tomorrow',
+
+  password:'willbefine',
+
+  database:'burn',
+
+},
+```
 
 
- client:{
-
-      host:'localhost',
-
-      port:'3306',
-
-      user:'tomorrow',
-
-      password:'willbefine',
-
-      database:'burn',
-
-    },
 
