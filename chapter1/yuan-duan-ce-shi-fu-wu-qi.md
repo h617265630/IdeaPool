@@ -6,7 +6,7 @@
 
 ssh地址：61.160.245.8:22022
 
-   33030
+33030
 
 路径：   /public/codes/GITZQ/RSReportest
 
@@ -65,4 +65,32 @@ admin admin
 账号：runsa\_out
 
 密码：1@7G9YuOL6oW
+
+
+
+
+
+
+
+  
+
+
+5月5日 17:07
+
+'test2':
+
+  
+
+
+ {'host': '61.160.245.8', 'user': 'runsacrm',
+
+  
+
+
+ 'passwd': 'iqAD$hNL1PA58J^8', 'db': 'test2',
+
+  
+
+
+ 'port': 33030, 'charset': 'utf8'},
 
