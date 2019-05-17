@@ -16,5 +16,9 @@
 
 3 顾客群体转化分析  改了一部分 卡主  area\_nm 字段找不到问题
 
-4. 顾客结构分析 去掉了 最外层的groupby idx
+1. 顾客结构分析 去掉了 最外层的groupby idx
+
+4 顾客结构 sql打通 报了一个js错误 name undefined
+
+5.
 
