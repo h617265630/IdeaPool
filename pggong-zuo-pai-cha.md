@@ -18,7 +18,7 @@
 
 1. 顾客结构分析 去掉了 最外层的groupby idx
 
-4 顾客结构 sql打通 报了一个js错误 name undefined
+4. 顾客结构 sql打通 报了一个js错误 name undefined
 
 5.
 
