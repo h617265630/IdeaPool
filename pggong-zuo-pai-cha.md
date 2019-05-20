@@ -1,24 +1,10 @@
-9.会员消费结构 :=
-
-会员结构分析 :=
-
-会员商品分析  ，商品货号
-
-13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-
-14 会员绑定:          sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////
-
 1 顾客概览      Vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 2 顾客招募分析 sql无错误 无数据vvvvvvvvvvvvvvvvvvvvvvv///////////////////////////////////////
 
-11 会员招募分析  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-
 3 顾客群体转化分析  改了一部分 卡主  area\_nm 字段找不到问题
 
-顾客结构分析 去掉了 最外层的groupby idx
-
-4 顾客结构 sql打通 报了一个js错误 name undefined  可能js那边需要修改
+4 顾客结构 sql打通 报了一个js错误 name undefined  可能js那边需要修改   顾客结构分析 去掉了 最外层的groupby idx
 
 5 顾客积分查询  sql 打通   网点暂时还没传入vvvvvvvvvvvvvvvv///////////////////////////////
 
@@ -28,9 +14,17 @@
 
 8 渠道消费结构   pg语法 sql替换完成, 剩下细节纠错  暂且这样，division by zero 错误。 还未完成
 
+9.会员消费结构 :=
+
 10.会员绑定微信分析               。。。。。。。。。。。。。。。。先不做
 
+11 会员招募分析  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
+12 会员结构分析 :=
 
+13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
+14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////
+
+15 会员商品分析  ，商品货号
 
