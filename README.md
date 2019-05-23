@@ -4,7 +4,15 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 
+my ability
 
+网页开发  php python nodejs . java
 
+ios 开发
 
+AI python 
+
+数据分析，数据库。
+
+定位？
 
