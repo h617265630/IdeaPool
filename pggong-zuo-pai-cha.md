@@ -24,7 +24,7 @@
 
 13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv            pg
 
-14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////
+14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////         pg 页面展示成功 但是数据undefined 
 
 15 会员商品分析  ，商品货号
 
