@@ -22,7 +22,7 @@
 
 12 会员结构分析 :=
 
-13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv            pg
 
 14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////
 
@@ -58,13 +58,5 @@ m21 导购行为分析             VVVVVVVVVVVVVVVVVVV//////////////////////////
 
 会员商品消费分析。
 
-
-
-
-
-
-
 除了顾客概览，其他活动营销
-
-
 
