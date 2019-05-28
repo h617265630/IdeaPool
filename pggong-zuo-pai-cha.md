@@ -10,7 +10,7 @@
 
 6顾客到期积分  pnt—total\_all 字段找不到。
 
-7 搜索目标顾客 sql 打通 但是没数据vvvvvvvvvvvvvvvvvvvvvv/////////////////////////////////
+7 搜索目标顾客 sql 打通 但是没数据vvvvvvvvvvvvvvvvvvvvvv/////////////////////////////////  
 
 8 渠道消费结构   pg语法 sql替换完成, 剩下细节纠错  暂且这样，division by zero 错误。 还未完成
 
@@ -24,7 +24,7 @@
 
 13 会员等级变动  Vvvvvvvvvvvvvvvvvvvvvvvvvvvvv            pg
 
-14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////         pg 页面展示成功 但是数据undefined 
+14 会员绑定:   sql 无错误  无数据。vvvvvvvvvvvvvvvvvv////////////////////////////////////////         pg 页面展示成功 但是数据undefined
 
 15 会员商品分析  ，商品货号
 
