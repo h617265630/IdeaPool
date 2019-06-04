@@ -1,4 +1,4 @@
-# My Awesome Book
+# what my inner
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
@@ -18,7 +18,7 @@ AI python
 
 AI             整理总结 机器学习思维 和 神经网络
 
-需求分析  翻译BA
+需求分析  翻s译BA
 
 心理         个体心理学，基本需求。个体与外界的关系，围绕 强弱关联。  家庭教育，两性情感，情绪控制。
 
