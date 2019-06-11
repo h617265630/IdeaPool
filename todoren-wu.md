@@ -26,5 +26,37 @@ extgrid
 
 
 
+表头,表数据
+
+
+
+sql
+
+
+
+准备数据
+
+
+
+请求的过程需要url。。需要注册url 。api.main.url 的形式。
+
+ext 请求表数据，表头，表内容。
+
+
+
+
+
+涉及到表的重用，传参到指定表，通过url\(jointable\)
+
+判断 是否有jointable，如果有就添加jointable。
+
+
+
+
+
+
+
+
+
 
 
